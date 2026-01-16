@@ -164,11 +164,11 @@ Limitations :
 
 Author :
 
-Pooja Bhindi
+Vivek Savaliya
 Cyber Security Enthusiast
 
 GitHub profile
-[https://github.com/Pooja-1504](https://github.com/Pooja-1504)
+https://github.com/VivekSavaliya17
 
 
 License :
